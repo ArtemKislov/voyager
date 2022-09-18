@@ -1,0 +1,14 @@
+{
+  "name": "voyager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ArtemKislov/voyager.git",
+  "author": "Artem Kislov <akislov.im@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "./packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
